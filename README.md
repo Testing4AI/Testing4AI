@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Testing4AI
 - 👀 I’m interested in SE for AI 
+- 📫 How to reach me: chenjialuo@zju.edu.cn
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me: chenjialuo@zju.edu.cn
+
 
 <!---
 Testing4AI/Testing4AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

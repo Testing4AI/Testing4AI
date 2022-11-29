@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Testing4AI
 - 👀 I’m interested in machine learning security and software testing (SE4AI)
-- 🌱 I’m currently a third-year phd student at Zhejiang University
+<!-- - 🌱 I’m currently a third-year phd student at Zhejiang University -->
 - 📫 How to reach me: chenjialuo@zju.edu.cn
 <!-- - 💞️ I’m looking to collaborate on AI Security.  -->
 <!-- - 🌱 I’m currently learning ... -->
